@@ -1,0 +1,16 @@
+footer{
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+footer span i{
+    color: var(--secondary-color);
+}
+
+footer span p{
+    color: var(--accent-color-dark);
+}
