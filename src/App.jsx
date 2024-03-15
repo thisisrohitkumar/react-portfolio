@@ -1,6 +1,7 @@
 import React from 'react'
 import './App.css'
 import './assets/styles/global/custom-scrollbar.css'
+import './assets/styles/global/responsive.css'
 
 import Header from './components/header/Header'
 import Hero from './components/hero/Hero'
