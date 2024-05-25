@@ -1,11 +1,10 @@
-import React from 'react'
-import { NavLink } from 'react-router-dom'
-import './footer.css'
+import React from "react";
+import "./footer.css";
 
 const Footer = () => {
   return (
     <>
-        <footer>
+      <footer>
         <span>
           <p>
             Design and Build with <i className="fa-solid fa-heart"></i> by Rohit
@@ -14,7 +13,7 @@ const Footer = () => {
         </span>
       </footer>
     </>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
